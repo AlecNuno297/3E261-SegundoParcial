@@ -1,4 +1,5 @@
 #pragma once 
 #include <string>
 
-typedef char EstadoFoco;
+
+typedef std::string EstadoFoco;

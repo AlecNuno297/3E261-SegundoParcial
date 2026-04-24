@@ -1,6 +1,6 @@
 #include <iostream>
 #include <Foco.hpp>
-#include <Seriesocos.hpp>
+#include <SerieFocos.hpp>
 
 int main (int argc, char const *argv[])
 {
